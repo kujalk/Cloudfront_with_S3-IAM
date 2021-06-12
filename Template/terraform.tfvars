@@ -1,0 +1,7 @@
+origin-id            = "myS3Origin"
+bucket_name          = "upwork-temp-001-cool"
+iam_user             = "upwork-user"
+origin-id-comment    = "cloud front origin id- 1"
+distribution-comment = "S3 Cloudfront distribution"
+root-object          = "root.png"
+price_class          = "PriceClass_100"
